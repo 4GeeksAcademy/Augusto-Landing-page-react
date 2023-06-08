@@ -1,4 +1,8 @@
-
+.card-img-top
+{
+    width: 400px;
+    height: 300px;
+  }
 /* 
 
     You can write your own styles here...
